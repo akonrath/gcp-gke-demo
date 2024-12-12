@@ -44,3 +44,5 @@ variable "ssh_key" {
 variable "zone" {
   type = string
 }
+
+
